@@ -1,7 +1,145 @@
 {
     "categories": [
-        { "name": "Pizza", "image": "teste" },
-        { "name": "Pizza", "image": "teste" },
-        { "name": "Pizza", "image": "teste" }
+        {
+            "image": "all.png",
+            "name": "Todas"
+        },
+        {
+            "image": "bistro.png",
+            "name": "Bistrô"
+        },
+        {
+            "image": "bar.png",
+            "name": "Bar \/ Lounge"
+        },
+        {
+            "image": "brewery.png",
+            "name": "Cervejaria"
+        },
+        {
+            "image": "burgers.png",
+            "name": "Hamburgueria"
+        },
+        {
+            "image": "californian.png",
+            "name": "Californian"
+        },
+        {
+            "image": "caribbean.png",
+            "name": "Caribenha"
+        },
+        {
+            "image": "comfort.png",
+            "name": "Comfort Food"
+        },
+        {
+            "image": "cuban.png",
+            "name": "Cubano"
+        },
+        {
+            "image": "continental.png",
+            "name": "Continental"
+        },
+        {
+            "image": "french.png",
+            "name": "Francesa"
+        },
+        {
+            "image": "international.png",
+            "name": "International"
+        },
+        {
+            "image": "italian.png",
+            "name": "Italiana"
+        },
+        {
+            "image": "japanese.png",
+            "name": "Japonesa"
+        },
+        {
+            "image": "latin.png",
+            "name": "Latino Americana"
+        },
+        {
+            "image": "mediterranean.png",
+            "name": "Mediterrânea"
+        },
+        {
+            "image": "mexican.png",
+            "name": "Mexicana"
+        },
+        {
+            "image": "organic.png",
+            "name": "Orgânica"
+        },
+        {
+            "image": "panasian.png",
+            "name": "Pan-Asian"
+        },
+        {
+            "image": "peruvian.png",
+            "name": "Peruana"
+        },
+        {
+            "image": "pizza.png",
+            "name": "Pizzaria"
+        },
+        {
+            "image": "primerib.png",
+            "name": "Prime Rib"
+        },
+        {
+            "image": "seafood.png",
+            "name": "Frutos do Mar"
+        },
+        {
+            "image": "southamerican.png",
+            "name": "Sul Americana"
+        },
+        {
+            "image": "southern.png",
+            "name": "Sul"
+        },
+        {
+            "image": "spanish.png",
+            "name": "Espanhola"
+        },
+        {
+            "image": "steak.png",
+            "name": "Steakhouse"
+        },
+        {
+            "image": "sushi.png",
+            "name": "Sushi"
+        },
+        {
+            "image": "tapas.png",
+            "name": "Tapas \/ Small Plates"
+        },
+        {
+            "image": "vietnamese.png",
+            "name": "Vietnamesa"
+        },
+        {
+            "image": "wine.png",
+            "name": "Bar de Vinho"
+        }
+    ],
+    "locations": [
+        "Aspen",
+        "Boston",
+        "Charleston",
+        "Chicago",
+        "Houston",
+        "Las Vegas",
+        "Los Angeles",
+        "Miami",
+        "New Orleans",
+        "New York",
+        "Philadelphia",
+        "Portland",
+        "San Antonio",
+        "San Francisco",
+        "Washington District of Columbia"
     ]
 }
