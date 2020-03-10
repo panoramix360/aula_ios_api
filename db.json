@@ -1,4 +1,26 @@
 {
+    "questions": [
+        {
+            "name": "Qual hook é usado para carregar o contexto?",
+            "rightAnswerIndex": 1,
+            "options": [
+                "useState",
+                "useContext",
+                "useEffect",
+                "useState"
+            ]
+        },
+        {
+            "name": "O método bindActionCreators é de qual biblioteca?",
+            "rightAnswerIndex": 0,
+            "options": [
+                "Redux",
+                "ContextAPI",
+                "React Native Camera",
+                "React Native"
+            ]
+        }
+    ],
     "categories": [
         {
             "image": "all.png",
